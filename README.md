@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello World!
+### Instructor for the NHSPC
+### I code in primarialy Python, but I am learning JS and the React framework.
+### My hobbies are playing cards, figure skating, video games, coding.
+### I'm currently working on a multi-purpose cards discord bot.
+
 
 <!--
 **code-vulture/code-vulture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
