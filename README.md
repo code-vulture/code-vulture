@@ -1,5 +1,5 @@
 # Hello World!
-### Future instructor for the NHSPC
-### I code in primarialy Python, but I am learning JS and the React framework
-### My hobbies are playing cards, figure skating, video games, coding
-### I'm currently working on a multi-purpose cards discord bot (when I am motivated..)
+### Instructor and cofounder of the NHSPC
+### Interest in quantum computing and its utilization
+### Languages: Python, JS, Java
+### Give me a puzzle and I will love you forever..
